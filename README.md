@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to floating-point precision in Julia. The `myfunction` exhibits unexpected behavior for values of `x` very close to 0.  The solution illustrates how to handle such cases more robustly, addressing the limitations of floating-point comparisons.
